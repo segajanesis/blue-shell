@@ -1,0 +1,14 @@
+h
+Returns a help document inside your CLI with the current known commands
+
+cd
+Changes directory to the main level
+
+-cd [location]
+Changes directory to the desired location
+
+-O [fileurl]
+Sets the target download location as your physical computer, downloads file located at URL
+
+open .
+Opens the active directory that the CLI is currently set to 
