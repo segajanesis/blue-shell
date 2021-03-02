@@ -1,3 +1,5 @@
+# bash script shortcuts
+
 ### cd
 Changes directory to the main level
 
