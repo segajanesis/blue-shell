@@ -19,4 +19,5 @@ Parrots back a string (don't forget your 'marks' to denote the string) of your c
 read
 Listens to the user and records the input. 
 You can name and store the inputted value locally if contained in a .sh file which opens the possibility to use variables. 
-For example, try READ $COLOR will store the given input as a variable that can be recalled by referencing $COLOR in the future.  
+For example, try READ COLOR will allow a user to type a value first.
+Then, it will store that given input as a variable called COLOR that can be recalled anywhere in your script by referencing $COLOR. 
