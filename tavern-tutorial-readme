@@ -1,4 +1,11 @@
-You can make your first program in shell very easily. For my first program, I chose to write a virtual tavern. The purpose of the tavern is to act as the barkeep. The program will ask you what your name is, where you're from, and what your drink of choice is. We will use scripting to parrot those choices back to the user using the READ and ECHO commands. 
+You can make your first program in shell very easily. 
+
+For my first program, I chose to write a virtual tavern. 
+
+The purpose of the tavern is to act as the barkeep. 
+
+The program will ask you what your name is, where you're from, and what your drink of choice is. 
+
+We will use scripting to parrot those choices back to the user using the READ and ECHO commands. 
 
 Ready to take a look? Check out the Tavern.sh file now! 
-
