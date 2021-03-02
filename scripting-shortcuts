@@ -17,4 +17,6 @@ echo ''
 Parrots back a string (don't forget your 'marks' to denote the string) of your choice into the CLI 
 
 read
-Listens to the user and records the input. You can name and store the inputted value locally if contained in a .sh file which opens the possibility to use variables. For example, try READ $COLOR will store the given input as a variable that can be recalled by referencing $COLOR in the future.  
+Listens to the user and records the input. 
+You can name and store the inputted value locally if contained in a .sh file which opens the possibility to use variables. 
+For example, try READ $COLOR will store the given input as a variable that can be recalled by referencing $COLOR in the future.  
